@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Document</title>
+        <head>
+            <body>
+        <header>
+               <h1>Unikadellasalle</h1>
+               <nav>
+                 <ul>
+                 <li><a href="#bab-1"> BAB 1 <span style="color:red" ></span></a></li>
+                  <li> BAB 2</li>
+                  <li>BAB 3</li>
+                  <li>BAB 4</li>
+                 </ul>
+               </nav>
+            <header>
+                <main>
+                    <article>
+                        <h2> id="#bab-1" BAB1/h2>
+                        <p>Isi bab 2</p>
+                        <article>
+                        </article>
+                        <h2>BAB 3</h2>
+                        <p>Isidari bab 3</p>
+                        <article>
+                        </article>
+                        <h2> BAB 4</h2>
+                        <p>Isi dari bab 4</p>
+                    </article>
+                    <div class="card"></div>
+                    <img src="https://th.bing.com/th/id/OIP.z7hczHvzGF5s2S7UYcaruwHaJT?w=128&h=180&c=7&r=0&o=5&dpr=2.2&pid=1.7" alt="
+                    ">
+                    <h3>Shoes!</h3>
+                    <p>If a dog chews shoes whose shows does he choose?</p>
+                    <button>BUY NOW</button>
+                    <div>
+                    <main>
+                        <footer>
+                            <h2>Daftar Isi</h2>
+                        </footer>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <td>tahun</td>
+                                    <td>juara 1</td>
+                                    <td>juara 2</td>
+                                    <td>juara 3</td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>2018</td>
+                                    <td>prancis</td>
+                                    <td>kroasia</td>
+                                    <td>belgium</td>
+                                </tr>
+                                <tr>
+                                    <td>2014</td>
+                                    <td>Prancis</td>
+                                    <td>kroasia</td>
+                                    <td>belgium</td>
+                                </tr>
+                                <tr>
+                                    <td>2010</td>
+                                    <td>prancis</td>
+                                    <td>kroasia</td>
+                                    <td>belgium</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </main>
+                    </div>
+                </main>
+            </header>
+              
+    
+</body>
+</html>
